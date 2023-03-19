@@ -9,7 +9,7 @@
 
 - Organization [link](https://github.com/Obscurus-network)
 
-- And ofc. **I dont use arch btw**
+- And ofc. **I use arch btw**
 </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=burntchipset&" alt="burntchipset" /></p>
